@@ -64,10 +64,6 @@
         <name>Flow</name>
     </types>
     <types>
-        <members>QSYD_googleapis</members>
-        <name>RemoteSiteSetting</name>
-    </types>
-    <types>
         <members>poweredByGoogle</members>
         <name>StaticResource</name>
     </types>
